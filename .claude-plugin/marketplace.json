@@ -1,7 +1,7 @@
 {
-  "name": "knowledge-work-plugins",
+  "name": "marcs-knowledge-work-plugins",
   "owner": {
-    "name": "Anthropic"
+    "name": "Marc Love"
   },
   "plugins": [
     {
